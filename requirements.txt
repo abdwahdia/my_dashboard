@@ -3,4 +3,6 @@ numpy
 matplotlib
 seaborn
 plotly.express
-streamlit
+
+altair>=5
+streamlit>=1.30.0
